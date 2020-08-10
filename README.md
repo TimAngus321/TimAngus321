@@ -9,4 +9,4 @@ Some information about me:
 - 💬 Ask me about music, travelling, gutiar or coding!
 - 📫 How to reach me: email: timangus321@gmail.com
 - ⚡ Fun fact: I'm a fullstack developer! 
--->
+
